@@ -3,11 +3,11 @@ module github.com/pure-golang/platform
 go 1.25.0
 
 require (
-	github.com/pure-golang/adapters v0.0.0-20260403125206-5c90c12abe49
 	github.com/golang-jwt/jwt/v5 v5.3.1
 	github.com/jackc/pgx/v5 v5.8.0
 	github.com/pkg/errors v0.9.1
 	github.com/pressly/goose/v3 v3.26.0
+	github.com/pure-golang/adapters v0.0.0-20260413184553-ff2f6df2b0f0
 	github.com/stretchr/testify v1.11.1
 	github.com/urfave/cli/v2 v2.27.7
 )

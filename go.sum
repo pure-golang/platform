@@ -1,5 +1,3 @@
-github.com/pure-golang/adapters v0.0.0-20260403125206-5c90c12abe49 h1:IcOIzXmEttWTj8rcY7MxXUU4KfNNl1f6NwCOmTesq74=
-github.com/pure-golang/adapters v0.0.0-20260403125206-5c90c12abe49/go.mod h1:Zt2pFEzsRbx60m8e0ykeRR4OsBfA7uZLObfyaVp5UEM=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
 github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw=
 github.com/cenkalti/backoff/v5 v5.0.3 h1:ZN+IMa753KfX5hd8vVaMixjnqRZ3y8CuJKRKj1xcsSM=
@@ -90,6 +88,8 @@ github.com/prometheus/otlptranslator v0.0.2 h1:+1CdeLVrRQ6Psmhnobldo0kTp96Rj80DR
 github.com/prometheus/otlptranslator v0.0.2/go.mod h1:P8AwMgdD7XEr6QRUJ2QWLpiAZTgTE2UYgjlu3svompI=
 github.com/prometheus/procfs v0.17.0 h1:FuLQ+05u4ZI+SS/w9+BWEM2TXiHKsUQ9TADiRH7DuK0=
 github.com/prometheus/procfs v0.17.0/go.mod h1:oPQLaDAMRbA+u8H5Pbfq+dl3VDAvHxMUOVhe0wYB2zw=
+github.com/pure-golang/adapters v0.0.0-20260413184553-ff2f6df2b0f0 h1:QuQbe+0sD+QuSQp1qHknm7kyj/L5QL7z0jv+7zR7rI4=
+github.com/pure-golang/adapters v0.0.0-20260413184553-ff2f6df2b0f0/go.mod h1:zMRYdmk2VFXdQHWXpjO2Fm+PWq7bgw51hT9HX+tPuOM=
 github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec h1:W09IVJc94icq4NjY3clb7Lk8O1qJ8BdBEF8z0ibU0rE=
 github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec/go.mod h1:qqbHyh8v60DhA7CoWK5oRCqLrMHRGoxYCSS9EjAz6Eo=
 github.com/rogpeppe/go-internal v1.14.1 h1:UQB4HGPB6osV0SQTLymcB4TgvyWu6ZyliaW0tI/otEQ=
